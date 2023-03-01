@@ -1,4 +1,6 @@
-x = input('Write any name in here: ') [::-1]
-print(x)
+x = input('Write any name or sentence here: ') [::-1]
+print('Reverse it will be: ' + x)
+
+
 
 
