@@ -5,4 +5,4 @@ def factorial(n):
         total *= i
     return total
 
-print(factorial(7))
+print(factorial(4))
